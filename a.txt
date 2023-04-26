@@ -1,1 +1,0 @@
-vless://cd2cc0e6-8464-457a-a15a-c9855b95a5a5@ir.filmseryal.sbs:26485?security=none&encryption=none&host=cbi.ir.&headerType=http&type=tcp#989128458497-yixpbl
